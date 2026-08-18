@@ -1,0 +1,9 @@
+IfSel
+HexOff
+ColumnModeOn
+PerlReOn
+Find RegExp SelectText " {2,}"
+Replace All " "
+UltraEditReOn
+ColumnModeOff
+EndIf
