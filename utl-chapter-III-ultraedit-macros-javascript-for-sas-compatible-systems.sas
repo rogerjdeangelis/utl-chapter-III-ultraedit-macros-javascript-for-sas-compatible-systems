@@ -415,7 +415,7 @@ CONTENTS
         36  CTRL+F11         Trim Leading Spaces
         37  Ctrl+p           Print
         38  Ctrl+M           Play Macro 
-        29  Alt+F11          Compare files
+        39  Alt+F11          Compare files
 
     b. Javascript and User tools
                                                 
